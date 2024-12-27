@@ -3,7 +3,6 @@
 - [Useful](#useful)
 - [Games](#games)
 - [Space/Astronomy](#spaceastronomy)
-- [Fun](#fun)
 - [Random](#random)
 - [Others](#others)
 
@@ -41,16 +40,6 @@
     <b><a href="#table-of-contents">↑ Back To Top</a></b>
 </div>
 
-## Fun
-| Website | Info |
-| :- | :- |
-| https://neal.fun | Games, visualizations, interactives and other weird stuff |
-| https://radio-on-internet.netlify.app | Listen to Radio on the Internet |
-
-<div align="right">
-    <b><a href="#table-of-contents">↑ Back To Top</a></b>
-</div>
-
 ## Random
 | Website | Info |
 | :- | :- |
@@ -66,6 +55,8 @@
 | Website | Info |
 | :- | :- |
 | https://iknowwhatyoudownload.com | Tracks and displays torrent activity associated with specific IP addresses |
+| https://neal.fun | Games, visualizations, interactives and other weird stuff |
+| https://radio-on-internet.netlify.app | Listen to Radio on the Internet |
 
 <div align="right">
     <b><a href="#table-of-contents">↑ Back To Top</a></b>
