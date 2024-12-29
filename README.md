@@ -10,10 +10,15 @@
 
 ## Useful
 
-| Website             | Info                                           |
-| :------------------ | :--------------------------------------------- |
-| https://squoosh.app | Compress images without losing much on quality |
-| https://webtor.io   | Download and Play torrents online              |
+| Website                    | Info                                                                                                                                                                   |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| https://squoosh.app        | Compress images without losing much on quality                                                                                                                         |
+| https://webtor.io          | Download and Play torrents online                                                                                                                                      |
+| https://tosdr.org          | Terms of Service; Didn't Read (ToS;DR) a platform dedicated to simplifying the understanding of Privacy Policies and Terms of Service for various online services      |
+| https://www.remove.bg      | Remove image backgrounds automatically with just one click                                                                                                             |
+| https://mynoise.net        | Made by Stéphane Pigeon, a sound engineer and audio enthusiast who maintains and curates the platform for online background noise machines and interactive soundscapes |
+| https://haveibeenpwned.com | Check if your email address is in a data breach                                                                                                                        |
+| https://musclewiki.com     | Select a muscle and it provides you with exercises to workout the selected muscle                                                                                      |
 
 <div align="right">
     <b><a href="#table-of-contents">↑ Back To Top</a></b>
@@ -21,12 +26,13 @@
 
 ## Games
 
-| Website                | Info                                                                                                                    |
-| :--------------------- | :---------------------------------------------------------------------------------------------------------------------- |
-| https://sandspiel.club | A falling sand game that provides a relaxing and creative place to play with elements like sand, water, plant, and fire |
-| https://slowroads.io   | Endless driving zen in your browser                                                                                     |
-| https://smashkarts.io  | Multiplayer Kart Battle Arena game. Drive fast, Fire rockets, Make big explosions                                       |
-| https://1v1.lol        | Battle Royale, where only the last player standing wins                                                                 |
+| Website                           | Info                                                                                                                    |
+| :-------------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
+| https://sandspiel.club            | A falling sand game that provides a relaxing and creative place to play with elements like sand, water, plant, and fire |
+| https://slowroads.io              | Endless driving zen in your browser                                                                                     |
+| https://smashkarts.io             | Multiplayer Kart Battle Arena game. Drive fast, Fire rockets, Make big explosions                                       |
+| https://1v1.lol                   | Battle Royale, where only the last player standing wins                                                                 |
+| https://vole.wtf/kilobytes-gambit | Can you beat a JavaScript chess engine that fits entirely within 1 kilobyte (1024 bytes) of code                        |
 
 <div align="right">
     <b><a href="#table-of-contents">↑ Back To Top</a></b>
