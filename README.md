@@ -33,7 +33,7 @@
 | https://smashkarts.io             | Multiplayer Kart Battle Arena game. Drive fast, Fire rockets, Make big explosions                                       |
 | https://1v1.lol                   | Battle Royale, where only the last player standing wins                                                                 |
 | https://vole.wtf/kilobytes-gambit | Can you beat a JavaScript chess engine that fits entirely within 1 kilobyte (1024 bytes) of code                        |
-| https://www.stumbleguys.com       | A multiplayer battle royale obstacle course game where players race to become the last one standing.                    |
+| https://www.stumbleguys.com       | A multiplayer battle royale obstacle course game where players race to become the last one standing                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↑ Back To Top</a></b>
